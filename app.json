@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pra-fazer-app",
-    "slug": "pra-fazer-app",
+    "name": "organizze-app",
+    "slug": "organizze-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
