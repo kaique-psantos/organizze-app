@@ -53,7 +53,10 @@ export default function HistoricoList({ data, deleteItem }) {
 
         <TextDescription>
           {data.description}
+          {" - "}
+          {data.date}
         </TextDescription>
+        
 
         <ValorText>
           {formatValue(data.value)}
