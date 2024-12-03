@@ -40,7 +40,7 @@ export default function CustomDrawer(props){
      />}
     <View style={styles.footer}>
         <Text style={styles.footerText}>
-          Projeto apresentado para a disciplina de Computação para Dispositivos Móveis do curso de Sistemas de Informação do UniRios.
+          Projeto apresentado para a disciplina de Computação para Dispositivos Móveis do curso de Sistemas de Informação do UniRios. Desenvolvido por: Kaíque Santos e Maria Fernanda Dantas
         </Text>
       </View>
      
